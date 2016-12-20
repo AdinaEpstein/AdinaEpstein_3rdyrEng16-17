@@ -1,2 +1,2 @@
-# AdinaEpstein_3rdyrEng16-17
+# Underwater Robot
 Adina's 3rd year engineering project
